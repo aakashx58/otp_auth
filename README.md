@@ -3,8 +3,10 @@
 A new Flutter project.
 
 # Screenshots
-<img height="400" src="htt1aa" >
-<img height="400" src="http8969" >
+<img height="400" src="https://github.com/aakashx58/otp_auth/assets/106716824/b26d3010-41e4-4800-bf33-c38e9690247a" >
+<img height="400" src="https://github.com/aakashx58/otp_auth/assets/106716824/a591307b-27d2-4f2a-bf91-b4f2c2e06dba" >
+
+
 
 ## Getting Started
 
