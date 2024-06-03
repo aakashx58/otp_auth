@@ -16,8 +16,8 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       initialRoute: 'phone',
       routes: {
-        'phone': (context) => MyPhone(),
-        'otp': (context) => MyOtp(),
+        'phone': (context) => const MyPhone(),
+        'otp': (context) => const MyOtp(),
       },
     );
   }
